@@ -1,0 +1,88 @@
+Game,Lions points,Opposition points,Lions result,Tour,Year,Game order,Test series result,Game_id
+SA 3rd test,0,0,,,,9,,87
+SA 2nd test,0,0,,,,8,,86
+SA 1st test,0,0,,,,7,,85
+Stormers,49,3,Won,South Africa,2021,6,,84
+South Africa A,13,17,Lost,South Africa,2021,5,,83
+Sharks,71,31,Won,South Africa,2021,4,,82
+Sharks,54,7,Won,South Africa,2021,3,,81
+Lions,56,14,Won,South Africa,2021,2,,80
+Japan,28,10,Won,South Africa,2021,1,,79
+NZ 3rd test,15,15,Draw,New Zealand,2017,10,Draw,78
+NZ 2nd test,24,21,Won,New Zealand,2017,9,Draw,77
+Hurricans,31,31,Draw,New Zealand,2017,8,Draw,76
+NZ 1st test,15,30,Lost,New Zealand,2017,7,Draw,75
+Chiefs,34,6,Won,New Zealand,2017,6,Draw,74
+Maori All Blacks,32,10,Won,New Zealand,2017,5,Draw,73
+Highlanders,22,23,Won,New Zealand,2017,4,Draw,72
+Crusaders,12,3,Lost,New Zealand,2017,3,Draw,71
+Blues,16,22,Lost,New Zealand,2017,2,Draw,70
+NZ Provincial Barbarians,13,7,Won,New Zealand,2017,1,Draw,69
+Aus 3rd test,41,16,Won,Australia,2013,10,Won,68
+Aus 2nd test,15,16,Lost,Australia,2013,9,Won,67
+Melbourne Rebels,35,0,Won,Australia,2013,8,Won,66
+Aus 1st test,23,21,Won,Australia,2013,7,Won,65
+Brumbies,12,14,Lost,Australia,2013,6,Won,64
+NSW Waratahs,47,14,Won,Australia,2013,5,Won,63
+Combined Country,64,0,Won,Australia,2013,4,Won,62
+Queensland Reds,22,12,Won,Australia,2013,3,Won,61
+Western Force,69,17,Won,Australia,2013,2,Won,60
+Barbarians,59,8,Won,Australia,2013,1,Won,59
+SA 3rd test,28,9,Won,South Africa,2009,10,Lost,58
+SA 2nd test,25,28,Lost,South Africa,2009,9,Lost,57
+Emerging Boks,13,13,Draw,South Africa,2009,8,Lost,56
+SA 1st test,21,26,Lost,South Africa,2009,7,Lost,55
+Southern Kings,20,8,Won,South Africa,2009,6,Lost,54
+Western Province,26,23,Won,South Africa,2009,5,Lost,53
+Sharks,39,3,Won,South Africa,2009,4,Lost,52
+Free State Cheetahs,26,24,Won,South Africa,2009,3,Lost,51
+Golden Lions,74,10,Won,South Africa,2009,2,Lost,50
+Royal XV ,37,25,Won,South Africa,2009,1,Lost,49
+NZ 3rd test,19,38,Lost,New Zealand,2005,12,Lost,48
+Auckland,17,13,Won,New Zealand,2005,11,Lost,47
+NZ 2nd test,18,48,Lost,New Zealand,2005,10,Lost,46
+Manawatu,109,6,Won,New Zealand,2005,9,Lost,45
+NZ 1st test,3,21,Lost,New Zealand,2005,8,Lost,44
+Southland,26,16,Won,New Zealand,2005,7,Lost,43
+Otago,30,19,Won,New Zealand,2005,6,Lost,42
+Wellington,23,6,Won,New Zealand,2005,5,Lost,41
+NZ Maori,13,19,Lost,New Zealand,2005,4,Lost,40
+Taranaki,36,14,Won,New Zealand,2005,3,Lost,39
+Bay of Plenty,34,20,Won,New Zealand,2005,2,Lost,38
+Argentina,25,25,Draw,New Zealand,2005,1,Lost,37
+Aus 3rd test,23,29,Lost,Australia,2001,10,Lost,36
+Aus 2nd test,14,35,Lost,Australia,2001,9,Lost,35
+ACT Brumbies,30,28,Won,Australia,2001,8,Lost,34
+Aus 1st test,29,13,Won,Australia,2001,7,Lost,33
+NSW Country,46,3,Won,Australia,2001,6,Lost,32
+NSW Waratahs,41,24,Won,Australia,2001,5,Lost,31
+Australia A,25,28,Lost,Australia,2001,4,Lost,30
+Queensland Reds,42,8,Won,Australia,2001,3,Lost,29
+Queenslands Presidents XV,83,6,Won,Australia,2001,2,Lost,28
+Western Australia,116,10,Won,Australia,2001,1,Lost,27
+SA 3rd test,16,35,Lost,South Africa,1997,13,Won,26
+Northern Free State,67,39,Won,South Africa,1997,12,Won,25
+SA 2nd test,18,15,Won,South Africa,1997,11,Won,24
+Free State,52,30,Won,South Africa,1997,10,Won,23
+SA 1st test,25,16,Won,South Africa,1997,9,Won,22
+Emerging Boks,51,22,Won,South Africa,1997,8,Won,21
+Sharks,42,12,Won,South Africa,1997,7,Won,20
+Gauteng Lions,20,14,Won,South Africa,1997,6,Won,19
+Northern Transvaal,30,35,Lost,South Africa,1997,5,Won,18
+Mpumalanga,64,14,Won,South Africa,1997,4,Won,17
+Western Province,38,21,Won,South Africa,1997,3,Won,16
+Border,18,14,Won,South Africa,1997,2,Won,15
+Eastern Province XV,39,11,Won,South Africa,1997,1,Won,14
+NZ 3rd test,13,30,Lost,New Zealand,1993,13,Lost,13
+Waikato,10,38,Lost,New Zealand,1993,12,Lost,12
+NZ 2nd test,20,7,Won,New Zealand,1993,11,Lost,11
+Hawke’s Bay,17,29,Lost,New Zealand,1993,10,Lost,10
+Auckland,18,23,Lost,New Zealand,1993,9,Lost,9
+Taranaki,49,25,Won,New Zealand,1993,8,Lost,8
+NZ 1st test,18,20,Lost,New Zealand,1993,7,Lost,7
+Southland,34,16,Won,New Zealand,1993,6,Lost,6
+Otago,24,37,Lost,New Zealand,1993,5,Lost,5
+Canterbury,28,10,Won,New Zealand,1993,4,Lost,4
+NZ Maori,24,20,Won,New Zealand,1993,3,Lost,3
+North Harbour,29,13,Won,New Zealand,1993,2,Lost,2
+North Auckland,30,17,Won,New Zealand,1993,1,Lost,1
